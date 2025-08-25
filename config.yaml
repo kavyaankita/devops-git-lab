@@ -4,3 +4,4 @@ filters:
   - name: priority
     values: [high, medium, low]
   - comment : This is feature-a
+  - commit : This is feature-b
